@@ -1,4 +1,4 @@
-# Atividade-06.01
+# Atividade06.01
 
 O Git e o GitHub são ferramentas relacionadas, mas com papéis diferentes:
 
